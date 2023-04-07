@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lead Test Assessment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="download_app">Download The App : <p><font color="red">*</font></p></string>
+    <string name="wait">Wait</string>
+    <string name="cd">image</string>
+
+
+    <string name="welcome_to">WELCOME TO</string>
+    <string name="leads_corporation">LEADS CORPORATION  LTD</string>
+    <string name="nav_header_title">LEADS CORPORATION  LTD</string>
+    <string name="nav_profile">Edit Profile</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="press_again_to_exit">press again to exit</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+
+
+    <string name="menu_home">Home</string>
+
+
+</resources>
+
+
+
